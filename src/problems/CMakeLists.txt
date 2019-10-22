@@ -1,4 +1,4 @@
 add_executable(3-longest_substring_without_repeating_characters 3-longest_substring_without_repeating_characters.cpp)
 #add_executable(4-median_of_two_sorted_arrays 4-median_of_two_sorted_arrays.cpp)
 add_executable(5-longest_palindromic_substring 5-longest_palindromic_substring.cpp)
-
+add_executable(6-zigZag_conversion 6-zigZag_conversion.cpp)
