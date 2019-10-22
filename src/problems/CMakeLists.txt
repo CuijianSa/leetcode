@@ -3,3 +3,4 @@ add_executable(3-longest_substring_without_repeating_characters 3-longest_substr
 add_executable(5-longest_palindromic_substring 5-longest_palindromic_substring.cpp)
 add_executable(6-zigZag_conversion 6-zigZag_conversion.cpp)
 add_executable(7-reverse_integer 7-reverse_integer.cpp)
+add_executable(8-string_to_integer 8-string_to_integer.cpp)
