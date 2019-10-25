@@ -4,3 +4,4 @@ add_executable(5-longest_palindromic_substring 5-longest_palindromic_substring.c
 add_executable(6-zigZag_conversion 6-zigZag_conversion.cpp)
 add_executable(7-reverse_integer 7-reverse_integer.cpp)
 add_executable(8-string_to_integer 8-string_to_integer.cpp)
+add_executable(9-palindrome 9-palindrome.cpp)
