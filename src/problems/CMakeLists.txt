@@ -16,3 +16,4 @@ add_executable(17-letter_combinations_of_phone_number 17-letter_combinations_of_
 add_executable(18-four-sum 18-four-sum.cpp)
 add_executable(19-remove_nth_node_from_end_of_list 19-remove_nth_node_from_end_of_list.cpp)
 add_executable(20-valid_parentheses 20-valid_parentheses.cpp)
+add_executable(21-merge_two_lists 21-merge_two_lists.cpp)
