@@ -18,3 +18,4 @@ add_executable(19-remove_nth_node_from_end_of_list 19-remove_nth_node_from_end_o
 add_executable(20-valid_parentheses 20-valid_parentheses.cpp)
 add_executable(21-merge_two_lists 21-merge_two_lists.cpp)
 add_executable(22-generate_parentheses 22-generate_parentheses.cpp)
+add_executable(23-merge_klists 23-merge_klists.cpp)
