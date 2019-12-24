@@ -1,1 +1,2 @@
+ADD_SUBDIRECTORY(explore)
 ADD_SUBDIRECTORY(problems)

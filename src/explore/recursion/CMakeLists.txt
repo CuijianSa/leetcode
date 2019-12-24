@@ -1,0 +1,5 @@
+add_executable(reverse_string reverse_string.cpp)
+add_executable(swap_paris swap_paris.cpp)
+add_executable(pascal_triangle pascal_triangle.cpp)
+add_executable(pascal_triangle2 pascal_triangle2.cpp)
+add_executable(reverse_list reverse_list.cpp)
