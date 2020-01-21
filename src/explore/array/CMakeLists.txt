@@ -1,0 +1,2 @@
+add_executable(privo_index privo_index.cpp)
+add_executable(dominant_index dominant_index.cpp)
